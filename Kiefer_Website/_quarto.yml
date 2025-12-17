@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sarah L. Kiefer"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+
+format:
+  html:
+    theme: minty
+    toc: false
+    icons: fontawesome
+
