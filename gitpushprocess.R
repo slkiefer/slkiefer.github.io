@@ -3,4 +3,4 @@ git remote add origin https://slkiefer.github.io/
 git branch -M main
 git add --all
 git commit -m "commit"
-git push origin main
+git push -u origin main

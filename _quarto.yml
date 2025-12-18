@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Sarah L. Kiefer"
+  html-head: 
+  - <meta name="google-site-verification" content="pPa26qgtHmOoxes3DDH8_fUVqT1qfCMwwQ7x3b05x6Y" />
   navbar:
     search: false
     right:
