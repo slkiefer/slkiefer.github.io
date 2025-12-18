@@ -5,15 +5,14 @@ project:
 website:
   title: "Sarah L. Kiefer"
   navbar:
+    search: false
     right:
-      - text: Home
+      - text: About
         href: index.qmd
       - text: CV
         href: cv.qmd
-
+        
 format:
   html:
     theme: minty
     toc: false
-    icons: fontawesome
-
