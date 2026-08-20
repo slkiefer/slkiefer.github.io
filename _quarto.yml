@@ -10,7 +10,7 @@ website:
       - text: About
         href: index.qmd
       - text: CV
-        href: files/cv.pdf
+        href: docs/cv.pdf
         
 format:
   html:
